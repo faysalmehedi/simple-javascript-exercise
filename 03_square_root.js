@@ -7,7 +7,7 @@ function squareRoot (input01) {
 }
 
 console.log(squareRoot(-25));
-console.log(mathSqrt(21));
+console.log(squareRoot(21));
 
 // Method 02: using Math.sqrt() function
 
